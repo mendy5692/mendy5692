@@ -1,10 +1,9 @@
-<h1>Mendy Mendelson 😊</h1>
+<h1>Mendy Mendelson</h1>
 
 <h2>Personal Information:</h2>
 <ul>
   <li>Name: Mendy Mendelson</li>
   <li>Age: 21</li>
-  <li>Location: Haifa, Israel</li>
   <li>Phone: <a href="tel:0545264608">054-526-4608 📞</a></li>
 </ul>
 
